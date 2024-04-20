@@ -1,0 +1,54 @@
+/* styles.css */
+
+body {
+    background-color: #000;
+    color: #0f0;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+}
+
+.terminal {
+    width: 80%;
+    margin: 50px auto;
+}
+
+.terminal-output {
+    background-color: #000;
+    color: #0f0;
+    padding: 10px;
+    height: 200px;
+    overflow-y: scroll;
+    border: 2px solid #0f0;
+    border-radius: 5px;
+}
+
+.terminal-input {
+    padding: 10px;
+    margin-top: 20px;
+}
+
+input[type="text"] {
+    width: 80%;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #000;
+    color: #0f0;
+    border: none;
+    border-bottom: 2px solid #0f0;
+    outline: none;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+    outline: none;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
