@@ -50,6 +50,11 @@ Terminal Project is a web-based terminal interface that allows users to execute 
 
 2. Open your web browser and navigate to `http://localhost:3000` to access the terminal interface.
 
+### Preview
+
+![part1](https://github.com/niladrridas/terminal/blob/main/data/screenshots/1.png)
+![part1](https://github.com/niladrridas/terminal/blob/main/data/screenshots/2.png)
+
 ### Configuration
 
 - Customize the port on which the server runs by setting the `PORT` environment variable.
